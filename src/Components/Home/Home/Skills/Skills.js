@@ -41,7 +41,7 @@ const Skills = () => {
     return (
         <div className="container ">
             <div style={{ borderRadius: '8px' }} className="homebg ">
-                <div className=" pb-3 p-4 pb-2 ">
+                <div className="p-4">
                     <div data-aos="fade-up" className="bg-light rounded "><h2 className="header">MY <span className="skills"> Skills </span></h2></div>
                     <hr data-aos="fade-right" className="skillsline"></hr>
                     <div className="row row-cols-1 row-cols-md-3 g-4 w-100%">
