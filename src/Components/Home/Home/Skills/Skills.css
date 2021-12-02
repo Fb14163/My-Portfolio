@@ -1,0 +1,20 @@
+.skills{
+    color: goldenrod;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin:25px;
+
+}
+.header{
+    color:#000000 ;
+}
+
+.skillsline{
+    color: white;
+}
+
+.homebg{
+    background-color: #000000;
+
+}

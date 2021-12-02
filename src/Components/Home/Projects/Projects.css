@@ -1,0 +1,16 @@
+.projec-header{
+    color: goldenrod;
+}
+.header{
+    color: #000000;
+}
+.line{
+    color: white;
+
+}
+.homebg{
+    
+    background-image: url("/src/background.png");
+    width: 100%;
+    height: 100vh;
+}

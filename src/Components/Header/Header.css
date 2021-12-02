@@ -1,0 +1,32 @@
+.myimg{
+    width: 60%;
+    margin: -330px -330px;   
+}
+
+.shape{
+    border-radius: 15px;
+    width: 100%;
+}
+
+.intro{
+    align-items: center;
+    justify-content: center;
+}
+
+.name{
+    color: goldenrod;
+}
+.font{
+    color: white;
+    
+}
+
+.bg{
+    /* background-color: goldenrod; */
+   
+}
+
+.bgheader{
+    background-image: url("/src/background.png");
+    
+}
